@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name 5uH_LISN)(type KiCad)(uri "$(KIPRJMOD)/5uH_LISN.pretty")(options "")(descr ""))
+)
